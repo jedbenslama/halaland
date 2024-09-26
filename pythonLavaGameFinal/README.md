@@ -1,19 +1,19 @@
 # Main file : menuuu > main.py
 
-Yo so this is my first ever game in python it's very messy I just uploaded the folder here cuz yk ppl tell me post shit on github so here
+C mon 1er jeu c nimp psk j avais pas encore appris que pr les autres ca ressemblerait a du chinois
 
-Also here are the credits:
-**Credits to baraltech on youtube for his awesome menu tutorial (I kept his background cuz I got nothing better)
-Credits to Luis Zuno on Dribble for the background
-Credits to Emmn Ironsmith on Pinterest for the character**
+Credit:
+**Merci à baraltech sur youtube pour son tuto main menu g gardé son menu background psk il est bg tu connais
+Merci à Luis Zuno sur Dribble pour le background du jeu
+Merci à Emmn Ironsmith sur Pinterest pour avoir dessiné le perso**
 
 
-# How to use seeds
+# Comment utiliser les seeds
 
-### (If you don't know about seeds don't read this, it's useless)
-I learnt about seeds during my project so I decided to add them, but not to the game cuz my teachers would be too stupid to understand what it is and im too lazy to explain to them anyways.
+### (Si tu connais pas les seeds saches que ça sert peut etre a rien de lire ça)
+Pendant le projet g appris l'existence des seeds dcp g voulu les ajouter, mais pas au jeu psk mon ancien prof voila il allait pas capter et j'avais la flm d'expliquer
 
-So somewhere in the main.py file (the one in menuuu, the other ones are garbage you can *probably* delete them), you got these 5 lines (look for `def game()` *i think* it's written only once). 
+qq part dans main.py file (celui dans ./menuuu, les autres peut *peut-être* etre supprimés jsp, t as 5 lignes (cherche `def game()`)
 ```py
 def game():
     # global random
@@ -21,5 +21,5 @@ def game():
     # random.seed(2)
     # numpy.random.seed(2)
 ```
-Un-comment the lines (or the move the **hashtags** idk what we say exactly).
-The seed is **2**.
+Un-comment les lignes (t as compris genre enleve les hashtags).
+Ici la seed est **2**.
