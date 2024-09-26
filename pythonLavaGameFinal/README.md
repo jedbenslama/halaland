@@ -23,3 +23,5 @@ def game():
 ```
 Un-comment les lignes (t as compris genre enleve les hashtags).
 Ici la seed est **2**.
+
+PS: de base ct en anglais dcp g changé le readme mais le reste est en anglais bonne chance a qui s'y interesse
