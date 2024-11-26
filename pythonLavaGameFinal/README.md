@@ -25,3 +25,5 @@ Un-comment les lignes (t as compris genre enleve les hashtags).
 Ici la seed est **2**.
 
 PS: de base ct en anglais dcp g changé le readme mais le reste est en anglais bonne chance a qui s'y interesse
+
+EDIT: J'ai upload ce fichier sur ce compte car j'ai supprimé mon ancien compte GitHub, ayant la flemme de réécrire le ReadMe j'ai upload sans modifications. Désolé pour toutes les abréviations et bonne chance dans votre lecture :)
